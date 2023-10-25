@@ -1,6 +1,1 @@
-"# shopify-storefront" 
-"# shopify-storefront" 
-"# shopify-storefront" 
-"# test-store" 
-"# remote-shopify-store" 
 "# remote-shopify-store" 
