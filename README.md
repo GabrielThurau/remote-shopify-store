@@ -2,3 +2,4 @@
 "# shopify-storefront" 
 "# shopify-storefront" 
 "# test-store" 
+"# remote-shopify-store" 
